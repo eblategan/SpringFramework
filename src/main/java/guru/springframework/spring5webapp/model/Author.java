@@ -1,6 +1,4 @@
-package guru.springframework.spring5webapp.domain;
-
-import org.springframework.stereotype.Component;
+package guru.springframework.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;
